@@ -1,0 +1,37 @@
+{
+    "Rooms": [
+        [
+            {
+                "LuckyNumbers": [6]
+            },
+            {
+                "LuckyNumbers": [2]
+            },
+            {
+                "LuckyNumbers": [4]
+            }
+        ],
+        [
+            {
+                "LuckyNumbers": [5]
+            },
+            {
+                "LuckyNumbers": [7]
+            },
+            {
+                "LuckyNumbers": [9]
+            }
+        ],
+        [
+            {
+                "LuckyNumbers": [1]
+            },
+            {
+                "LuckyNumbers": [3]
+            },
+            {
+                "LuckyNumbers": [8]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,372 @@
+﻿{
+    "Houses": {
+        "NE": {
+            "Rooms": [
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "Sickness"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "Damage"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "FiveGhosts"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "MoneyTrouble"
+                    }
+                ]
+            ]
+        },
+        "N": {
+            "Rooms": [
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "Sickness"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "Damage"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "FiveGhosts"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "MoneyTrouble"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    }
+                ]
+            ]
+        },
+        "NW": {
+            "Rooms": [
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "MoneyTrouble"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "Damage"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "FiveGhosts"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "Sickness"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    }
+                ]
+            ]
+        },
+        "E": {
+            "Rooms": [
+                [
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "Sickness"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "MoneyTrouble"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "Damage"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "FiveGhosts"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    }
+                ]
+            ]
+        },
+        "W": {
+            "Rooms": [
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "Damage"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "Sickness"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "FiveGhosts"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "MoneyTrouble"
+                    }
+                ]
+            ]
+        },
+        "SW": {
+            "Rooms": [
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "Damage"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "Sickness"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "MoneyTrouble"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "FiveGhosts"
+                    }
+                ]
+            ]
+        },
+        "S": {
+            "Rooms": [
+                [
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "Sickness"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "Damage"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "FiveGhosts"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "MoneyTrouble"
+                    }
+                ]
+            ]
+        },
+        "SE": {
+            "Rooms": [
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "FiveGhosts"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "Damage"
+                    },
+                    {
+                        "Status": "Poor",
+                        "Tag": "Sickness"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    }
+                ],
+                [
+                    {
+                        "Status": "Poor",
+                        "Tag": "MoneyTrouble"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    },
+                    {
+                        "Status": "Good",
+                        "Tag": "Average"
+                    }
+                ]
+            ]
+        }
+    }
+}

@@ -1,0 +1,1972 @@
+{
+    "Houses": {
+        "S1": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "S2": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "S3": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "SW1": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "SW2": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "SW3": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "W1": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ]
+            ]
+        },
+        "W2": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ]
+            ]
+        },
+        "W3": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ]
+            ]
+        },
+        "NW1": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ]
+            ]
+        },
+        "NW2": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ]
+            ]
+        },
+        "NW3": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ]
+            ]
+        },
+        "N1": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "N2": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "N3": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "NE1": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "NE2": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "NE3": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 1
+                    }
+                ]
+            ]
+        },
+        "E1": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ]
+            ]
+        },
+        "E2": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ]
+            ]
+        },
+        "E3": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ]
+            ]
+        },
+        "SE1": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    },
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 2
+                    }
+                ]
+            ]
+        },
+        "SE2": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ]
+            ]
+        },
+        "SE3": {
+            "Rooms": [
+                [
+                    {
+                        "LuckyNumbers": [
+                            1,
+                            8
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            5,
+                            3
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            3,
+                            1
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            2,
+                            9
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            9,
+                            7
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            7,
+                            5
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ],
+                [
+                    {
+                        "LuckyNumbers": [
+                            6,
+                            4
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            4,
+                            2
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    },
+                    {
+                        "LuckyNumbers": [
+                            8,
+                            6
+                        ],
+                        "Tag": 0,
+                        "Status": 0
+                    }
+                ]
+            ]
+        }
+    }
+}
