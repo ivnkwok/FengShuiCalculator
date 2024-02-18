@@ -57,7 +57,9 @@
     <Compile Include="Algorithms\PredictedYearCalculator.cs" />
     <Compile Include="Algorithms\DecorationManager.cs" />
     <Compile Include="Algorithms\RotationCalculator.cs" />
-    <None Include="Data\MoveInDiagramData2024-2043.json" />
+    <None Include="Data\MoveInDiagramData2024-2043.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <Compile Include="Models\Decorations.cs" />
     <Compile Include="Models\InputData.cs" />
     <Compile Include="Models\RotationQuotientEnum.cs" />
@@ -107,7 +109,7 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="Data\2020House.json">
+    <None Include="Data\2024House.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Data\MoveInDiagramData1984-2003.json">

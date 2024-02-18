@@ -11,18 +11,18 @@ namespace FengShuiCalculator.Algorithms
 {
     public class PredictedYearCalculator
     {
-        string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Data\\2020House.json");
-        House house2020;
+        string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Data\\2024House.json");
+        House house2024;
         public PredictedYearCalculator()
         {
             string str = File.ReadAllText(path);
-            house2020 = JsonConvert.DeserializeObject<House>(str);
+            house2024 = JsonConvert.DeserializeObject<House>(str);
         }
         public House GetHouse(int predictedYear)
         {
             House house = new House();
             house.Rooms = new Room[3, 3];
-            int difference = predictedYear - 2020;
+            int difference = predictedYear - 2024;
             for (int i = 0; i < 3; i++)
             {
                 for (int j = 0; j < 3; j++)
@@ -31,7 +31,7 @@ namespace FengShuiCalculator.Algorithms
                     house.Rooms[i, j].LuckyNumbers = new int[1];
                     house.Rooms[i, j].Status = StatusEnum.Good;
                     house.Rooms[i, j].Tag = RoomTagEnum.Average;
-                    house.Rooms[i, j].LuckyNumbers[0] = house2020.Rooms[i, j].LuckyNumbers[0] - difference;
+                    house.Rooms[i, j].LuckyNumbers[0] = house2024.Rooms[i, j].LuckyNumbers[0] - difference;
                     while (house.Rooms[i, j].LuckyNumbers[0] > 9)
                     {
                         house.Rooms[i, j].LuckyNumbers[0] -= 9;

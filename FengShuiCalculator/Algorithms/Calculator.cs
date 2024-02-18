@@ -38,7 +38,7 @@ namespace FengShuiCalculator.Algorithms
             House userHouse = new House();
             userHouse.Rooms = new Room[3, 3];
             int roomStatus = 0;
-            userHouse.Status = moveInHouse.Rooms[0,0].Status;
+            double houseStatus = 0;
             for (int i = 0; i < 3; i++)
             {
                 for (int j = 0; j < 3; j++)
@@ -52,6 +52,7 @@ namespace FengShuiCalculator.Algorithms
                         moveInHouse.Rooms[i, j].LuckyNumbers[1]
                     };
                     userHouse.Rooms[i, j].Decoration = decorationManager.GetDecorations(userHouse.Rooms[i, j].LuckyNumbers[0]);
+                    houseStatus += (double)userHouse.Rooms[i, j].Status;
                     for (int k = 0; k < 3; k++)
                     {
                         roomStatus += decorationManager.GetDecorations(userHouse.Rooms[i, j].LuckyNumbers[k]).LuckQuotient;
@@ -72,6 +73,7 @@ namespace FengShuiCalculator.Algorithms
             {
                 rotationCalculator.RotateHouse(userHouse);
             }
+            userHouse.Status = (StatusEnum)(Math.Ceiling(houseStatus/9.0));
             return userHouse;
         }
     }
